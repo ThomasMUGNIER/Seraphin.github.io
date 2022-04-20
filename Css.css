@@ -1,50 +1,29 @@
-.body{
-	color: White;
-	
-}
 #head{
-	 line-height:150%;
+	line-height:150%;
 	text-align: center;
-	margin-right:15%;
-	font-size:0.9em;
-	
+	font-size:0.9em;	
 }
 #chercher{
 	font-size:1.0em;
-	width: 70%;
-	height: 10%;
-	background-color: #5641E7;
-	margin-left: 5%;
-	padding: 2%;
+	line-height:150%;
 	text-align: center;
 }
 #right{
-	float: left;
-	width: 14%;
-	text-align: center;
-	background-color: #7F65FF;
-	height: 100%;
-	padding-bottom: 6%;
-	padding-left: 1.5%;
-	padding-right: 1.5%;
+	float : left;
+	text-align: left;
+	width : 15%;
+	padding-left : 20%;
 }
 #middle{
-	float:left;
-	width: 42%;
+	width : 30%;
+	float : left;
 	text-align: center;
-	background-color: white;
-	height: 100%;
-	padding-left: 2%;
-	padding-right: 2%;
-}
+
 #left{
-	float:left;
-	width: 8%;
-	margin-left:5%;
-	text-align: center;
-	background-color: #D2CEE6;
-	height: 100%;
-	padding-left: 1.5%;
-	padding-right: 1.5%;
-	padding-bottom: 5%;
+	float : right;
+	text-align: right;
+	width : 30%;
+}
+#strong{
+	font-weight: bold;
 }
