@@ -1,16 +1,9 @@
-.body{
-	font-size:1.0em;
-}
-.head{
-	font-size:1.0em;
-}
+
 #head{
 	line-height:150%;
 	text-align: center;
-	font-size:0.9em;	
 }
 #chercher{
-	font-size:1.0em;
 	line-height:150%;
 	text-align: center;
 }
