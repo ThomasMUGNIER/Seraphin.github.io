@@ -11,19 +11,11 @@
 #chercher{
 	text-align: center;
 }
-#right{
-	float : left;
-	text-align: left;
-	width : 15%;
-	padding-left : 20%;
-}
 #middle {
-	float: left;
 	text-align: center;
 	width: 30%;
 }
-	#left{
-	float : right;
+#left{
 	text-align: left;
 	width : 30%;
 }
