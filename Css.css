@@ -1,6 +1,9 @@
 
-.body{
-	font-style: Arial;
+.body {
+	font-size: 1.1em;
+}
+.p {
+	font-size: 1.1em;
 }
 #head{
 	text-align: center;
@@ -14,13 +17,13 @@
 	width : 15%;
 	padding-left : 20%;
 }
-#middle{
-	width : 30%;
-	float : left;
+#middle {
+	float: left;
 	text-align: center;
-
-#left{
+	width: 30%;
+}
+	#left{
 	float : right;
-	text-align: right;
+	text-align: left;
 	width : 30%;
 }
