@@ -1,21 +1,12 @@
 
 .body {
 	font-size: 1.1em;
+	text-align: center;
+	align-content: center;
+	width: 100%;
 }
 .p {
 	font-size: 1.1em;
-}
-#head{
 	text-align: center;
-}
-#chercher{
-	text-align: center;
-}
-#middle {
-	text-align: center;
-	width: 30%;
-}
-#left{
-	text-align: left;
-	width : 30%;
+	align-content: center;
 }
